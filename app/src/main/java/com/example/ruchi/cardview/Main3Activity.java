@@ -1,4 +1,4 @@
-package com.example.sivaram.cardview;
+package com.example.ruchi.cardview;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

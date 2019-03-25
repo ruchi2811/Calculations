@@ -1,4 +1,4 @@
-package com.example.sivaram.cardview;
+package com.example.ruchi.cardview;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.sivaram.cardview", appContext.getPackageName());
+        assertEquals("com.example.ruchi.cardview", appContext.getPackageName());
     }
 }

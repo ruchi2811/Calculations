@@ -6,7 +6,7 @@
     android:background="@drawable/redblack"
     android:orientation="vertical"
     android:padding="10dp"
-    tools:context="com.example.sivaram.cardview.Main5Activity">
+    tools:context="com.example.ruchi.cardview.Main5Activity">
 
     <TextView
         android:layout_width="wrap_content"

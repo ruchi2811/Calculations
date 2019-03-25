@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/redblack"
     android:orientation="vertical"
-    tools:context="com.example.sivaram.cardview.Main3Activity">
+    tools:context="com.example.ruchi.cardview.Main3Activity">
 
     <TextView
         android:id="@+id/textView"

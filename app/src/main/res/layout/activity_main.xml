@@ -7,7 +7,7 @@
     android:background="@drawable/redblack"
     android:orientation="vertical"
     android:weightSum="10"
-    tools:context="com.example.sivaram.cardview.MainActivity">
+    tools:context="com.example.ruchi.cardview.MainActivity">
 
     <RelativeLayout
         android:layout_width="match_parent"

@@ -1,8 +1,6 @@
-package com.example.sivaram.cardview;
+package com.example.ruchi.cardview;
 
-import android.content.Context;
 import android.os.Bundle;
-import android.os.Vibrator;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
