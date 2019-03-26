@@ -12,7 +12,7 @@ import android.widget.TextView;
 public class splash extends AppCompatActivity {
     private TextView tv;
     private ImageView iv;
-    private static int SPLASH_TIME_OUT = 1000;
+    private static int SPLASH_TIME_OUT = 3500;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
